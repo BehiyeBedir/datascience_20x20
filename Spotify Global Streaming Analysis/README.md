@@ -13,6 +13,4 @@ This analysis was performed on Kaggle using a dataset published in 2017 that con
 - Pandas  
 - Matplotlib  
 
-## Project Link
-Explore the project and detailed code here:  
-[Spotify Global Streaming Analysis - Kaggle](https://lnkd.in/d3Qj39yw)
+
