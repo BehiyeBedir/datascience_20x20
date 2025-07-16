@@ -12,7 +12,7 @@ This analysis was performed on Kaggle using a dataset published in 2017 that con
 - Python  
 - Pandas  
 - Matplotlib
-- 
+
 - ## Dataset  
 You can access the dataset from the following link:  
 [https://www.kaggle.com/datasets/dhruvildave/spotify-charts](https://www.kaggle.com/datasets/dhruvildave/spotify-charts)
