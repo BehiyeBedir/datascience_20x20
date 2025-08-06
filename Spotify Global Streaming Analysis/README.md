@@ -14,4 +14,9 @@ This analysis was performed on Kaggle using a dataset published in 2017 that con
 - Matplotlib
 
 
+## Dataset Link
+
+Access full dataset on Kaggle:
+https://www.kaggle.com/datasets/dhruvildave/spotify-charts
+
 
