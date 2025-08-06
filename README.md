@@ -4,7 +4,7 @@ This project consists of 20 mini projects designed for aspiring data scientists 
 ## Projects Included
 
 1. Spotify Global Streaming Analysis  
-2.  
+2. Predicting Life Expectancy: A Random Forest Approa
 3.   
 4.  
 5. 
