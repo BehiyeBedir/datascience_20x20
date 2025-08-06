@@ -48,27 +48,4 @@ This project analyzes the historical earthquake data of Turkey from **1915 to 20
 - Forecasted earthquake counts for the next **10 years**
 - Visualized forecast with **confidence intervals**
 
----
-
-## 📌 Sample Graphs
-
-- ![Earthquakes per Year](your-graph-link-here)
-- ![Magnitude vs Depth](your-graph-link-here)
-- ![ARIMA Forecast](your-graph-link-here)
-
-(*Replace placeholders with actual images or delete this section if not using it on GitHub.*)
-
----
-
-## 📎 Dataset Details
-
-- `Olus tarihi`: Earthquake date  
-- `Mw`: Magnitude on the Moment Magnitude Scale  
-- `Derinlik`: Depth in kilometers  
-- Other columns include location and additional metadata
-
----
-
-## 📍 Conclusion
-
-This project provides a comprehensive look at the seismic activity in Turkey. Using both statistical insights and time series modeling, it gives valuable perspectives on how earthquake behavior has evolved — and what might lie ahead.
+-
