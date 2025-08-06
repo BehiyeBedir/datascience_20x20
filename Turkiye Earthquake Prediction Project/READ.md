@@ -2,8 +2,8 @@
 
 This project analyzes the historical earthquake data of Turkey from **1915 to 2021** and performs a time series forecast using ARIMA to predict possible earthquake trends in the future.
 
-🔗 **[View the project on Kaggle →](https://www.kaggle.com/code/behiyebedir/turkiye-earthquake-prediction-project)**  
-📂 **Dataset Source**: [`turkey_earthquakes(1915-2021).csv`](https://www.kaggle.com/datasets/dhruvildave/turkey-earthquakes1915-2021)
+📂 **Dataset Source**: 🔗 https://www.kaggle.com/code/behiyebedir/turkiye-earthquake-prediction-project  
+
 
 ---
 
