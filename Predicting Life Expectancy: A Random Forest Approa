@@ -12,3 +12,8 @@ This study also highlights the importance of socioeconomic and healthcare access
 
 ---
 
+git clone <repo-url>
+cd <repo-folder>
+git rm "e_20x20/Predicting Life Expectancy: A Random Forest Approa"
+git commit -m "Remove conflicting file to create folder"
+git push
