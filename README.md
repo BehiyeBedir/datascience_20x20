@@ -5,8 +5,8 @@ This project consists of 20 mini projects designed for aspiring data scientists 
 
 1. Spotify Global Streaming Analysis  
 2. Predicting Life Expectancy: A Random Forest Approa
-3.   
-4.  
+3. Turkiye Earthquake Prediction Project
+4. House Price Prediction: Linear vs Ridge Regression
 5. 
 6.  
 7.   
